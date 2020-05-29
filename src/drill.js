@@ -54,6 +54,6 @@ function totalCostByCategory (){
 }
 
 searchForItem('burger');
-allItemsPaginated(2)
+allItemsPaginated(2);
 itemsAddedAfterDate(3);
 totalCostByCategory();
